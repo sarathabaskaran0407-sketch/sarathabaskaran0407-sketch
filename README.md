@@ -14,7 +14,8 @@
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,aws,docker,gcp,git,github,postgres,linux&theme=dark)](https://skillicons.dev)
 ### Cybersecurity ToolBox
-[![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash,wireshark&theme=dark)](https://skillicons.dev)
+[![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash&theme=dark)](https://skillicons.dev) <img src="./burp-suite.svg" width="48" height="48" rx="60" alt="Burp Suite">
+
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
