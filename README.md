@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!I'm Chandramouli Baskaran <img src="./4.gif" height="35px" width="35px"></h1>  
+<h1 align="center">Hi There! I'm Chandramouli Baskaran <img src="./4.gif" height="45px" width="45px"></h1>  
 <h3 align="center">Software Developer</h3>
 
 
@@ -8,10 +8,10 @@
 - Help teach 145,000+ students cloud, AI, and tech skills
 
 
-## Skill stack
+## 🧰 My Toolbox
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,aws,docker,gcp,git,postgres,linux&theme=dark)](https://skillicons.dev)
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
