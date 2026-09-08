@@ -1,18 +1,6 @@
-<!--
-Credits and references used in this README:
+<h1 align="center">Hi There!I'm Chandramouli Baskaran</h1> <img src="" height="30px" width="30px"> 
+<h3 align="center">Software Developer</h3>
 
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
-
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
-
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
--->
-
-# 🐐 Maximus Soares Demo Account
-**`Growth Lead at NextWork`** 
 
 ## About Me
 - I build, ship, and tell the story in public.
