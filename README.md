@@ -11,7 +11,7 @@
 ## 🧰 My Toolbox
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,aws,docker,gcp,git,postgres,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,aws,docker,gcp,git,github,postgres,linux&theme=dark)](https://skillicons.dev)
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
@@ -81,8 +81,10 @@
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:maximus@nextwork.org)
-
+- [**Contact**](mailto:bcmouli2006@gmail.com)
+<a href="mailto:bcmouli2006@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" />
+</a>
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
