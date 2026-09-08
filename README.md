@@ -14,7 +14,7 @@
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,aws,docker,gcp,git,github,postgres,linux&theme=dark)](https://skillicons.dev)
 ### Cybersecurity ToolBox
-[![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash&theme=dark)](https://skillicons.dev)
+[![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash,wireshark&theme=dark)](https://skillicons.dev)
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
@@ -81,21 +81,20 @@
 ---
 
 ## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:bcmouli2006@gmail.com)
+- [**Resume**](https://drive.google.com/file/d/1jb92oTicUfBztQEmi1TTfmp6aHDNX9hh/view?usp=drive_link)
+  
 <a href="mailto:bcmouli2006@gmail.com" target="blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="LinkedIn" />
 </a>
+
 <a href="https://www.linkedin.com/in/chandramouli-baskaran-a09a78307/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
-<a href="https://www.linkedin.com/in/chandramouli-baskaran-a09a78307/" target="blank">
-  <img src="https://skillicons.dev/icons?i=substack" alt="LinkedIn" />
-</a>
+
 
 
 # GitHub Streak
 
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
