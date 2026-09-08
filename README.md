@@ -16,7 +16,7 @@
 ### Cybersecurity ToolBox
 [![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash&theme=dark)](https://skillicons.dev) 
 <img src="./burp-suite.svg" width="48" height="48" alt="Burp Suite">
-
+<img src="./wireshark.svg" width="48" height="48" alt="Burp Suite">
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
